@@ -7,3 +7,4 @@ assidment2 https://github.com/2203a51753/AIML2024/blob/main/assignment2%20(2).ip
 assigment5 https://github.com/2203a51753/AIML2024/blob/main/Assignment5.ipynb
 assigment4 https://github.com/2203a51753/AIML2024/blob/main/Assignment_4.ipynb
 assigment3 https://github.com/2203a51753/AIML2024/blob/main/Assignment3.ipynb
+assigment6 https://github.com/2203a51753/AIML2024/blob/main/Assignment6.ipynb
