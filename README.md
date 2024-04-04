@@ -9,3 +9,4 @@ assigment4 https://github.com/2203a51753/AIML2024/blob/main/Assignment_4.ipynb
 assigment3 https://github.com/2203a51753/AIML2024/blob/main/Assignment3.ipynb
 assigment6 https://github.com/2203a51753/AIML2024/blob/main/Assignment6.ipynb
 assigment8 https://github.com/2203a51753/AIML2024/blob/main/Assignment8%20(1).ipynb
+assigment9 https://github.com/2203a51753/AIML2024/blob/main/ASSIGNMENT_9.ipynb
